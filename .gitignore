@@ -10,8 +10,5 @@
 *.hw/
 *.ip_user_files/
 *.webtalk/
-.Xil/
 *.bak
 *.tmp
-.DS_Store
-Thumbs.db
